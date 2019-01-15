@@ -1,0 +1,7 @@
+c:\Users\Szilárd\Documents\Visual Studio 2010\Projects\Localizator\Localizator\bin\Debug\Localizator.exe
+c:\Users\Szilárd\Documents\Visual Studio 2010\Projects\Localizator\Localizator\bin\Debug\Localizator.pdb
+c:\Users\Szilárd\Documents\Visual Studio 2010\Projects\Localizator\Localizator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Users\Szilárd\Documents\Visual Studio 2010\Projects\Localizator\Localizator\obj\x86\Debug\Localizator.Localizator.resources
+c:\Users\Szilárd\Documents\Visual Studio 2010\Projects\Localizator\Localizator\obj\x86\Debug\Localizator.Properties.Resources.resources
+c:\Users\Szilárd\Documents\Visual Studio 2010\Projects\Localizator\Localizator\obj\x86\Debug\Localizator.exe
+c:\Users\Szilárd\Documents\Visual Studio 2010\Projects\Localizator\Localizator\obj\x86\Debug\Localizator.pdb
